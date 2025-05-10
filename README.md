@@ -40,7 +40,7 @@ Los clústeres 1 y 3 representan clientes menos comprometidos, con una menor fre
 ## Herramientas y Tecnologías Utilizadas
 
 - **Python:** Para la implementación del análisis y procesamiento de datos.
-- **Bibliotecas:** Pandas, Scikit-learn, Matplotlib, entre otras.
+- **Bibliotecas:** Pandas, Scikit-learn, Matplotlib,Requests, entre otras.
 - **K-Means Clustering:** Para segmentación de comercios en grupos basados en su comportamiento de cobros.
 - **Métricas de Evaluación:** Silhouette Score, Calinski-Harabasz y Davies-Bouldin.
 
