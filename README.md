@@ -1,4 +1,4 @@
-# Análisis RFM de Cobros Aprobados de Comercios
+# Análisis RFM de cobros aprobados en merchants
 
 Este proyecto realiza un análisis de **RFM** (Recencia, Frecuencia, Monto) para segmentar a los comercios en función de sus **cobros aprobados**. Utilizando el algoritmo de **K-Means**, se identificaron diferentes grupos de comercios con comportamientos similares en términos de su historial de cobros. 
 ## Objetivo del Análisis
