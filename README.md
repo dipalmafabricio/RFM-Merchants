@@ -26,7 +26,7 @@ El análisis RFM se utilizó para evaluar los comportamientos de los comercios q
 
 | **Cluster** | **Gasto Promedio (USD)** | **Frecuencia de Cobros** | **Recencia Promedio (días)** | **Interpretación** |
 |-------------|--------------------------|---------------------------|------------------------------|---------------------|
-| **0**       | 23.98                    | 5.71                      | 414.39                       | Comercios que gastan más dinero y tienen buena frecuencia de cobros, pero cuya última transacción fue hace un tiempo. Podrían ser comercios a reactivar. |
+| **0**       | 23.98                    | 5.71                      | 414.39                       | Comercios que gastan más dinero y tienen buena frecuencia de cobros, pero cuya última transacción fue hace un tiempo. |
 | **1**       | 5.68                     | 2.17                      | 318.66                       | Comercios de bajo gasto y baja frecuencia de cobros. Su recencia es moderada, pero tienen un comportamiento de compra más esporádico. |
 | **2**       | 12.85                    | 3.95                      | 395.51                       | Comercios con un gasto moderado y una frecuencia aceptable de cobros. La recencia es alta, indicando que no han realizado cobros recientemente. |
 | **3**       | 7.06                     | 2.21                      | 488.03                       | Comercios con bajo gasto y baja frecuencia de cobros, además de una recencia muy alta, lo que indica que no han realizado cobros en mucho tiempo. |
